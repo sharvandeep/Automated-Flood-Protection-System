@@ -15,6 +15,14 @@ The system detects rising water levels using sensors and automatically activates
 - Stepper Motor
 - Buzzer Alert System
 
+## Control Logic
+
+1. Rain sensor activates early warning buzzer.
+2. Water level crossing threshold triggers barrier deployment.
+3. Stepper motor rotates 720° to raise boundary.
+4. When water recedes, barrier automatically resets.
+5. // Flood detection thresholds (experimentally calibrated)
+
 ## Features
 - Automatic flood detection
 - Real-time response
