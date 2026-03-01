@@ -23,6 +23,18 @@ The system detects rising water levels using sensors and automatically activates
 4. When water recedes, barrier automatically resets.
 5. // Flood detection thresholds (experimentally calibrated)
 
+## 🎥 Project Demonstration
+
+A working prototype demonstration of the Automated Flood Protection System:
+
+👉 [Watch Demo Video](https://drive.google.com/file/d/1TWMDjH8uo6LwQ5Ho7vlkrrYsrqo741Hk/view?usp=sharing)
+
+The video shows:
+- Rain detection buzzer activation
+- Rising water level sensing
+- Automatic barrier deployment using stepper motor
+- System reset after water level reduction
+
 ## Features
 - Automatic flood detection
 - Real-time response
